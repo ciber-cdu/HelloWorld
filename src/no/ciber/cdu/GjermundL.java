@@ -1,1 +1,5 @@
-Hei! du må ha innhold i klassen din.
+package no.ciber.cdu;
+
+public class GjermundL {
+
+}
