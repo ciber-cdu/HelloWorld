@@ -1,0 +1,1 @@
+Hei! du må ha innhold i klassen din.
