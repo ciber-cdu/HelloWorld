@@ -4,4 +4,8 @@ public class ChristianL
     {
         System.out.println("Hello, there. Christian");
     }
+    public int hello()
+    {
+        System.out.println("Hello, there. Christian");
+    }
 }
