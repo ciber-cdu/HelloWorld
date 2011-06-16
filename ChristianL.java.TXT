@@ -1,0 +1,7 @@
+public class ChristianL
+{
+    public void Hello()
+    {
+        System.out.println("Hello, there. Christian");
+    }
+}
