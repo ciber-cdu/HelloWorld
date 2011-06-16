@@ -4,7 +4,7 @@ public class Klasse {
 		System.out.println("hello world");
 	}
 	
-	public void run() {
+	public void Kjoer() {
 		System.out.println("run");
 	}
 
