@@ -1,3 +1,5 @@
+package no.ciber.cdu;
+
 public class PeterB{
 	private final int minInt;
 	public PeterB(){
